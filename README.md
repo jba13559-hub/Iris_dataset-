@@ -29,8 +29,6 @@ During the analysis, various visualization techniques were used to understand th
 - Histograms (Distribution Analysis)
 - Box Plots (Outlier Detection)
 - Scatter Plots (Feature Relationships)
-- Pair Plots (Multi-feature Comparison)
-- Heatmaps (Correlation Analysis)
 - Count Plots (Class Distribution)
 
 ## Key Insights
@@ -40,11 +38,6 @@ Petal Length and Petal Width showed the strongest ability to distinguish between
 
 ### 2. Iris Setosa Is Easily Separable
 The Setosa species has significantly smaller petal dimensions than the other species, making it clearly distinguishable in most visualizations.
-
-### 3. Strong Positive Correlation
-Heatmap analysis revealed a strong positive correlation between:
-- Petal Length and Petal Width
-- Petal Length and Sepal Length
 
 This indicates that flowers with longer petals generally have wider petals.
 
