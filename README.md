@@ -51,3 +51,9 @@ Sepal Length and Sepal Width showed more overlap between species, making them le
 Through exploratory data analysis and visualization, the Iris dataset revealed clear patterns and relationships among its features. Petal measurements emerged as the most important characteristics for distinguishing flower species. This project demonstrates how data visualization can be used to understand data distributions, detect relationships, and generate meaningful insights before building machine learning models.
 
 ## Project Structure
+
+iris-analysis/
+│
+├── Iris_EDA.ipynb
+├── README.md
+└── iris.csv
